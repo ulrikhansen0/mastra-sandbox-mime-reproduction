@@ -1,0 +1,27 @@
+.gitignore
+  s_0419b34156d27b::t_3809056385b223 1
+README.md
+  s_0419b34156d27b::t_f7091293d27c00 1-60
+package-lock.json
+  s_0419b34156d27b::t_ebb2b16b8b412e 1-10073
+package.json
+  s_0419b34156d27b::t_d3fc007f056d56 1-10
+reproduce.mjs
+  s_0419b34156d27b::t_fa2808589b1222 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2fcd7d31356f2c2ea37abe78635b7be494ab4f90",
+  "prompts": {},
+  "sessions": {
+    "s_0419b34156d27b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a15ac2-1edd-7a22-b24b-09dfbb323653",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Ulrik Hansen <ulrik@boligflow.dk>"
+    }
+  }
+}
