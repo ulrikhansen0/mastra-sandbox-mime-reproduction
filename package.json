@@ -1,0 +1,10 @@
+{
+  "name": "mastra-sandbox-image-reproduction",
+  "private": true,
+  "type": "module",
+  "scripts": { "reproduce": "node reproduce.mjs" },
+  "dependencies": {
+    "@mastra/core": "1.78.0",
+    "@mastra/code-sdk": "1.14.0"
+  }
+}
